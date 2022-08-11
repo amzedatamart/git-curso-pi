@@ -24,3 +24,7 @@ body {
     border: 1px solid black;
 }
 
+.small-box:nth-child(1) {
+    background-color: brown;
+}
+
